@@ -13,7 +13,7 @@ Hexo theme: Apollo
 
 Run this command from inside your hexo project
 ``` bash
-$ git clone https://github.com/joyceim/hexo-theme-apollo.git themes/apollo
+$ git clone https://github.com/NicholasAsimov/hexo-theme-apollo.git themes/apollo
 ```
 
 **Apollo requires Hexo 2.4 and above.**
